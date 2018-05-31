@@ -1,5 +1,5 @@
 audit_header: false
-title: Northern CA Real Estate Video Blog with Patricia Soltero Gillet
+title: San Joaquin Valley/Bay Area Real Estate Video Blog with Patricia Soltero Gillet
 description: Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.
 show_custom_links: false
 custom_links:
@@ -12,14 +12,14 @@ client:
   license_number:
   about_markdown: |
     It is a passion of mine and a pleasure to proudly serve my community to enable everyone I meet to fulfill their dreams in Real Estate, whether it is buying or selling your first home, investing in your future goals or supplying all of your financial needs. For over 20 years, I have been inspired and committed to improving myself through education, striving to make your real estate experience the most professional rewarding and exciting as possible. I am proud and honored to serve a referral based business and I believe that success is only present when our service to others is genuinely and passionately delivered with professionalism, integrity, and honesty. I proudly serve these qualities with hopes of building more lifelong relationships and outstanding achievements for everyone.
-  market: Northern CA
+  market: San Joaquin Valley/Bay Area
   brand: Catalyst Real Estate
   brokerage:
   address: 1810 Pacific Ave, Stockton, CA 95204
   phone: 209-483-6220
-  phone_type: Direct
-  phone2: 209-957-6700
-  phone2_type: Office
+  phone_type:
+  phone2:
+  phone2_type:
   email: patriciasgillet@gmail.com
   url: http://HomesByPatricia.com
 

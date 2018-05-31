@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Northern CA Real Estate Video Blog with Patricia Soltero Gillet</title>
-    <description>Our mission at Catalyst Real Estate is to be your best resource for Northern CA real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The Catalyst Real Estate, your professional Northern CA Real Estate Agents.</description>
+    <title>San Joaquin Valley/Bay Area Real Estate Video Blog with Patricia Soltero Gillet</title>
+    <description>Our mission at Catalyst Real Estate is to be your best resource for San Joaquin Valley/Bay Area real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The Catalyst Real Estate, your professional San Joaquin Valley/Bay Area Real Estate Agents.</description>
     <link>localhost:4000/</link>
     <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 29 May 2018 11:09:15 -0500</pubDate>
-    <lastBuildDate>Tue, 29 May 2018 11:09:15 -0500</lastBuildDate>
+    <pubDate>Thu, 31 May 2018 09:23:20 -0500</pubDate>
+    <lastBuildDate>Thu, 31 May 2018 09:23:20 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
