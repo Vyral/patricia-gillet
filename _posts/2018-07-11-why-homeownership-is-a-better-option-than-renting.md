@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Homeownership Is a Better Option Than Renting
-date: 2018-07-11 13:34:16
+date: 2018-07-11 13:34:00
 tags:
 excerpt: >-
   Are you better off renting or buying a home? Being a homeowner offers many
@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/patricia-youtube.jpg
-youtube_code: QMdEIcshdug
+youtube_code: NHRWFzzTUGE
 ---
 
 {% include youtube.html %}
