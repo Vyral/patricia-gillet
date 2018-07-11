@@ -24,11 +24,11 @@ First, let’s talk about renting—more specifically, its disadvantages. **When
 
 {% include pullquote.html %}
 
-The other downside to renting is if the owner decides to increase the rent, your only options are to either pay more or move out. And if they decide to sell the property, you’ll have 30 or 60 days to find a new apartment, relocate, pay another deposit, etc.
+The other downside to renting is if the owner decides to increase the rent, your only options are to either pay more or move out. Also, if they decide to sell the property, you will only have 30 or 60 days to find a new apartment, relocate, or pay another deposit.
 
 You’ll be doing this over and over and over until you decide it’s time to buy.
 
-When you’re a homeowner, you can make any upgrades or changes you want to your house. **You can also receive property tax benefits and build up equity.** Whatever your home’s market value is is your equity. That equity is money you can tap into to fund your kid’s college education, or even buy an investment property.
+When you’re a homeowner, you can make any upgrades or changes you want to your house. **You can also receive property tax benefits and build up equity.** Your home's market value is your equity. That equity is money you can tap into to fund your kid’s college education, or even buy an investment property.
 
 None of this is possible as a renter.
 
