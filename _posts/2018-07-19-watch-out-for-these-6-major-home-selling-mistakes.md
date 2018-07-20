@@ -32,7 +32,7 @@ Many important steps are involved in selling a home, which means there are a num
 
 **4. Neglecting to declutter your home.** Buyers want to be able to imagine themselves in their home. It is important to clear your home of personal items or anything taking up excessive space. If necessary, consider renting a storage unit to store some of your belongings.
 
-**5. Not allowing adequate access in your home.** Buyers who are ready, willing, and able to purchase a property will want to see your home as soon as possible. So, make sure that your agent has a lockbox ready and that you clearly specify when you are available.
+**5. Not allowing adequate access to your home.** Buyers who are ready, willing, and able to purchase a property will want to see your home as soon as possible. So, make sure that your agent has a lockbox ready and that you clearly specify when you are available.
 
 **6. Being emotional about your home.** Once you put your house on the market, you must think of it as a property, not a home. If you get a lowball offer, do not get offended. Simply have your agent write a counteroffer. You have to be strategic, not emotional. Also, do not be hurt if you hear buyers talking about remodeling.
 
