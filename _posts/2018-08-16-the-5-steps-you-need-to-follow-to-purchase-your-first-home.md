@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The 5 Steps You Need to Follow to Purchase Your First Home
-date:
+date: 2018-08-16 16:49:40
 tags:
   - Home Buyer Tips
   - Real Estate
@@ -41,5 +41,3 @@ In any case, good communication is key, so make sure you’re honest and upfront
 {% include pullquote.html %}
 
 If you have any other questions about this topic or you have any other real estate needs I can assist you with, don’t hesitate to call or email me. I’d be happy to help.
-
-&nbsp;
