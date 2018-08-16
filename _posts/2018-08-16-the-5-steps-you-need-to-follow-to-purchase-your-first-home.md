@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The 5 Steps You Need to Follow to Purchase Your First Home
-date: 2018-08-16 16:49:40
+date: 2018-08-16 16:49:00
 tags:
   - Home Buyer Tips
   - Real Estate
@@ -17,7 +17,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: iN0iFUfieU
+youtube_code: _iN0iFUfieU
 ---
 
 {% include youtube.html %}
