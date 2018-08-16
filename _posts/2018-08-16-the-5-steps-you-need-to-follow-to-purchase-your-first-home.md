@@ -32,12 +32,12 @@ Third, **make sure you’ve been employed in the same line of work for the last 
 
 Fourth, **choose the right buyer’s agent.** You need an agent by your side who will be accessible, and you need to let them know when you’ll be available to meet with them. It’s always best to be specific about which time slots you’re available for. You want to be flexible enough so that every time you and your agent go out and look at homes, you have a least three hours to do so. In that time frame, you should look at no more than four to five homes—after that, they all start looking the same.
 
+{% include pullquote.html %}
+
 Finally, **be prepared to pay your down payment and closing costs.** If you’re financing with an FHA loan, you’ll only need to put down 3%. If you’re doing a conventional loan and you have good credit, there are programs that allow you to put down as little as 3% to 5%.
 
 You should save 3% of the overall purchase price to cover your closing costs, which include your lender fees and your title and escrow fees. If you don’t have the money to cover your closing costs, let your agent know so they can ask the seller to give you a 3% credit back. There are many different ways this can be done. For example, the seller can increase the price by 3%.
 
 In any case, good communication is key, so make sure you’re honest and upfront with your agent and don’t keep any secrets regarding your credit, qualification, and available funds.
-
-{% include pullquote.html %}
 
 If you have any other questions about this topic or you have any other real estate needs I can assist you with, don’t hesitate to call or email me. I’d be happy to help.
