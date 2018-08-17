@@ -12,7 +12,7 @@ enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Patricia+Soltero-Gillet/San+Joaquin+Valley-Bay+Area+Real+Estate-+The+5+Steps+to+Purchasing+Your+First+Home.mp4
 pullquote: >-
   Good communication is key, so make sure you’re honest and upfront with your
-  agent
+  agent.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -26,7 +26,7 @@ Here are the five steps you need to take in order to purchase your first home.
 
 First, **have good credit.** You need good credit in order to obtain a good interest rate. If you’re vigilant about your credit, it will pay off for you. There are several loan programs you can qualify for with a credit score as low as 580, and you can qualify for conventional and FHA loans with a score of 620 or above.
 
-Second, **get pre-approved.** When you meet with a lender to get pre-approved, you’ll need two years’ worth of tax returns, two months’ worth of bank statements, one month of paycheck stubs, and a copy of your driver’s license and security card.
+Second, **get pre-approved.** When you meet with a lender to get pre-approved, you’ll need two years’ worth of tax returns, two months’ worth of bank statements, one month of paycheck stubs, and a copy of your driver’s license and social security card.
 
 Third, **make sure you’ve been employed in the same line of work for the last two years.** For instance, if you work in retail and you decide to switch companies, that’s fine just as long as you stay in the same line of work and you’ve been at your new job for at least a month.
 
